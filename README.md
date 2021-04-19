@@ -7,7 +7,9 @@
  ## Technologies
   
   Languages: javascript(ES6), React, SQL, jQuery, CSS, HTML, Markdown 
+  
   Computer OS : macOS Catalina, Microsoft Windows
+  
   Tools: react, heroku, netlify, git, regex, npm, node.js, redis
 
 ### My Approach
